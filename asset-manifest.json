@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dietka/static/css/main.eefa9473.css",
+    "main.css": "/dietka/static/css/main.05816bfb.css",
     "main.js": "/dietka/static/js/main.b3db16d2.js",
     "static/js/453.433eab43.chunk.js": "/dietka/static/js/453.433eab43.chunk.js",
     "index.html": "/dietka/index.html",
-    "main.eefa9473.css.map": "/dietka/static/css/main.eefa9473.css.map",
+    "main.05816bfb.css.map": "/dietka/static/css/main.05816bfb.css.map",
     "main.b3db16d2.js.map": "/dietka/static/js/main.b3db16d2.js.map",
     "453.433eab43.chunk.js.map": "/dietka/static/js/453.433eab43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eefa9473.css",
+    "static/css/main.05816bfb.css",
     "static/js/main.b3db16d2.js"
   ]
 }
